@@ -84,19 +84,19 @@
       var html = "";
       for (var jsonObj in d) {
         html += "<div data-id='" + jsonObj + "' class='itemContainer'>";
-        for (var key in d[jsonObj]) {//loop through keys
+        for (var key in d[jsonObj]) { //loop through keys
           if (key === "itemId") {
-            continue;//continue mean skip terminates loop
+            continue; //continue mean skip terminates loop
           }
           if (d[jsonObj][key].indexOf("github") !== -1) {
             html += "<div class='imageContainer'><img src='https://" + d[jsonObj][key] + "'/></div>";
-          } else {//otherwise use the key as the class and the value
+          } else { //otherwise use the key as the class and the value
             html += "<div class='" + key + "'>" + d[jsonObj][key] + "</div>";
           }
-        }//inner loop
+        } //inner loop
         html += "<div class='buttonContainer'><button type='button' class='buyButton btn-default btn'>Buy</button></div>";
         html += "</div>";
-      }//first for loop
+      } //first for loop
 
       //loop this here
       $(".output").html(html);
@@ -105,7 +105,8 @@
     function getSelectOptions() {
       var options = {
         "Anderson 1": "https://andersonguelphjs.github.io/class/week11/myJSON.json",
-        "Anderson 2": "https://andersonguelphjs.github.io/class/week11/myJSON2.json"
+        "Anderson 2": "https://andersonguelphjs.github.io/class/week11/myJSON2.json",
+        "Morris": "https://LucasWebDesign.github.io/class/week11/lucMor.json"
       };
       var html = "";
       for (var key in options) {
