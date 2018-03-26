@@ -4,32 +4,32 @@
     "1": {
       "itemId": 1,
       "lucMorTitle": "Kira risu",
-      "lucMorPrice": "¥ 500",
-      "lucMorImgUrl": "andersonguelphjs.github.io/class/week11/img/kirarisu.png"
+      "lucMorPrice": 25,
+      "lucMorImgUrl": "LucasWebDesign.github.io/class/week11/img/ARKHAM.png"
     },
     "2": {
       "itemId": 2,
-      "lucMorTitle": "Gera chou",
-      "lucMorPrice": "¥ 500",
-      "lucMorImgUrl": "andersonguelphjs.github.io/class/week11/img/geraCho.png"
+      "lucMorTitle": "Teeth",
+      "lucMorPrice": 500,
+      "lucMorImgUrl": "LucasWebDesign.github.io/class/week11/img/allteeth.jpg"
     },
     "3": {
       "itemId": 3,
-      "lucMorTitle": "Melody",
-      "lucMorPrice": "¥ 500",
-      "lucMorImgUrl": "andersonguelphjs.github.io/class/week11/img/melody.png"
+      "lucMorTitle": "Trapped",
+      "lucMorPrice": 15,
+      "lucMorImgUrl": "LucasWebDesign.github.io/class/week11/img/arkhamhorror.jpg"
     },
     "4": {
       "itemId": 4,
-      "lucMorTitle": "Mogu Tan",
-      "lucMorPrice": "¥ 500",
-      "lucMorImgUrl": "andersonguelphjs.github.io/class/week11/img/moguTan.png"
+      "lucMorTitle": "Bored Game",
+      "lucMorPrice": 40,
+      "lucMorImgUrl": "LucasWebDesign.github.io/class/week11/img/bored-games-game-room.jpg"
     },
     "5": {
       "itemId": 5,
-      "lucMorTitle": "Oshaki",
-      "lucMorPrice": "¥ 500",
-      "lucMorImgUrl": "andersonguelphjs.github.io/class/week11/img/oshaki.png"
+      "lucMorTitle": "Creatures",
+      "lucMorPrice": 0.05,
+      "lucMorImgUrl": "LucasWebDesign.github.io/class/week11/img/creature.jpg"
     }
   }
 }
