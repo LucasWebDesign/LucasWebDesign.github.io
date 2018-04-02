@@ -1,34 +1,35 @@
 {
+  "Sheet1": {},
   "Sheet1 (1)": {
     "1": {
       "itemId": 1,
       "lucMorTitle": "Kira risu",
-      "lucMorPrice": 25,
-      "lucMorImgUrl": "LucasWebDesign.github.io/class/week11/img/ARKHAM.png"
+      "lucMorPrice": "25",
+      "lucMorImgUrl": "lucasWebDesign.github.io/class/week11/img/ARKHAM.png"
     },
     "2": {
       "itemId": 2,
       "lucMorTitle": "Teeth",
-      "lucMorPrice": 500,
-      "lucMorImgUrl": "LucasWebDesign.github.io/class/week11/img/allteeth.jpg"
+      "lucMorPrice": "500",
+      "lucMorImgUrl": "lucasWebDesign.github.io/class/week11/img/allteeth.jpg"
     },
     "3": {
       "itemId": 3,
       "lucMorTitle": "Trapped",
-      "lucMorPrice": 15,
-      "lucMorImgUrl": "LucasWebDesign.github.io/class/week11/img/arkhamhorror.jpg"
+      "lucMorPrice": "15",
+      "lucMorImgUrl": "lucasWebDesign.github.io/class/week11/img/arkhamhorror.jpg"
     },
     "4": {
       "itemId": 4,
       "lucMorTitle": "Bored Game",
-      "lucMorPrice": 40,
-      "lucMorImgUrl": "LucasWebDesign.github.io/class/week11/img/bored-games-game-room.jpg"
+      "lucMorPrice": "40",
+      "lucMorImgUrl": "lucasWebDesign.github.io/class/week11/img/bored-games-game-room.jpg"
     },
     "5": {
       "itemId": 5,
       "lucMorTitle": "Creatures",
-      "lucMorPrice": 0.05,
-      "lucMorImgUrl": "LucasWebDesign.github.io/class/week11/img/creature.jpg"
+      "lucMorPrice": "0.05",
+      "lucMorImgUrl": "lucasWebDesign.github.io/class/week11/img/creature.jpg"
     }
   }
 }
